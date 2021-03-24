@@ -1,5 +1,14 @@
 
 <HEAD>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CF8GVPZ3J0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CF8GVPZ3J0');
+</script>
 <TITLE>
 Pagina A
 </TITLE>
